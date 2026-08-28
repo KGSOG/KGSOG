@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Amir 👋
 
-<!--
-**KGSOG/KGSOG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Backend Developer
 
-Here are some ideas to get you started:
+I build backend applications using:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Node.js
+- Express.js
+- Microsoft SQL Server
+- REST APIs
+- JWT Authentication
+- Authorization
+- Database Design
+
+## Featured Project
+
+### Task Management API
+
+A RESTful backend API built with Node.js and Express.js.
+
+Features:
+
+- User Authentication
+- JWT Authentication
+- Authorization Middleware
+- Project Management
+- Task Management
+- Database Relationships
+- Validation
+- Centralized Error Handling
+- Logging
+
+## Currently Learning
+
+- Backend Architecture
+- Software Engineering Practices
+- Cloud Deployment
