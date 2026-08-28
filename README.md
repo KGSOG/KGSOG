@@ -1,16 +1,32 @@
 # Hi, I'm Amir 👋
 
-## Backend Developer
+## Junior Backend Developer
 
-I build backend applications using:
+I build backend applications and RESTful APIs using modern web technologies.
 
+## Skills
+
+### Backend
 - Node.js
 - Express.js
-- Microsoft SQL Server
-- REST APIs
+- REST API Development
 - JWT Authentication
 - Authorization
 - Database Design
+- Microsoft SQL Server
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+
+### Tools & Libraries
+- Git
+- GitHub
+- Joi
+- bcrypt
+- Winston
+- Morgan
 
 ## Featured Project
 
@@ -26,12 +42,13 @@ Features:
 - Project Management
 - Task Management
 - Database Relationships
-- Validation
+- Request Validation
 - Centralized Error Handling
-- Logging
+- Application Logging
 
 ## Currently Learning
 
 - Backend Architecture
 - Software Engineering Practices
 - Cloud Deployment
+- Advanced Node.js Development
